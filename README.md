@@ -29,6 +29,9 @@ Abra o projeto e execute a classe principal:
 ```bash
 java -jar ContadorSwing-1.0-SNAPSHOT.jar
 ```
+## Tela do Aplicativo
+
+![Tela Principal](images/screenshot.png)
 
 ## Autor
 
