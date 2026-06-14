@@ -31,7 +31,7 @@ java -jar ContadorSwing-1.0-SNAPSHOT.jar
 ```
 ## Tela do Aplicativo
 
-![Tela Principal](images/screenshot.png)
+![Tela Principal](screenshot.png)
 
 ## Autor
 
